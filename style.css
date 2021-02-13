@@ -42,8 +42,7 @@ section {
 }
 
 .video_container {
-    max-width: 960px;
-    max-height: 512px;
+    height: 740px;
 }
 
 .description_container {
@@ -72,4 +71,9 @@ section {
     margin: 37px;
     padding-bottom: 37px;
     border-bottom: 1px solid black;
+}
+
+.main_video {
+    width: 100%;
+    height: 100%;
 }
